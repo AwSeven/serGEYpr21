@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="et_style." parent="@android:style/Widget.EditText">
+        <item name="android:textColor">#ababab</item>
+        <item name="android:gravity">center</item>
+        <item name="backgroundColor">@drawable/styleet</item>
+
+    </style>
+    <style name="et_styleBT." parent="TextAppearance.AppCompat.Button">
+        <item name="android:textColor">#ababab</item>
+        <item name="android:gravity">center</item>
+
+        <item name="backgroundTint">@drawable/styleet</item>
+
+
+    </style>
+    <style name="textView_store">
+        <item name="android:textSize">20sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="textView_store.numb">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
