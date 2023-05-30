@@ -1,0 +1,42 @@
+{
+  "count": 5,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "name": "ПЦР-тест на определение РНК коронавируса стандартный",
+      "description": "Клинический анализ крови – это самое важное комплексное лабораторное исследование при обследовании человека с любым заболеванием. Изменение исследуемых показателей, как правило, происходит задолго до появления видимых симптомов болезни.",
+      "price": "1800.00",
+      "image": "https://yandex-images.clstorage.net/Wv5N2d152/5ccf35e4HBD/Shpf1O2Y_H5XkK8IntjFeJk2-eaEoLzHQhCLvBXNAjlB7DTPtIbOnXrLMXmeooxMYcMyUZT_dcrZCl-STaZmU0rKDMZ9HWqqxxY6Cp4Zhf_OZj2hkiGrgdKHnXmCTsG4lHd6UyjOlRbjAS2l1eXZzvTD9VeR7ntQnZ8GQwa3eoBJ05_bLcv8tN8CIcoVGUd0D_-1KVepqYkHi1o41Q6QqE09OBbjg1abbAAuIROn2MM5xPLFl27_XQbaSkVDOrHECJuV0eiGdfsWgSHLVxSCdIs-8CqW4e5Pjg-csxrNlmhK-TXXq4qY1mWGrq_frhRId8L_SdSitlwG3ABDxjm9BE4clNwvCHL9386nStnTzf7EvPOlmqiqwwHEVfvQAJatCXI31SaNU9xlB6ps1CFVQTtCds5fqjddCFMABsD2NIoMElWSokD7OVCKokzR1U43jLe84FXqK4bCjRJ1X04T4Uy2_d-qQp_cJsLiJhKl0AY8y39Jn200W4aawwoNufFCwt3UECBBd3qawKNG2ZNNMMQ5fqMUqChBiAoYN51El2JI_rQdY09amyRGqarY5h8GtwG-CNRiMptP2IWHATd6Rg5blhKphTk1lQnlxVWUQr-EsfGjW6frgcBO1TVVxliuRHX7m6rF11htxy-vVCCSxD1OsYTbZz4XhhBIQsg3M0oJGtZTL0O8slDJKkPXUUD7x_g7qtEqYczDSxM-UE9bZ0S5tVjrAB8UZcBqId3lFEf7w_6NGSWwX83fyk7Iv3nNCZoWmyNHvvRVRWMBVpXM84n0M-9e4-aOAU9UvlRD0iAA9vjW5EpRl-wKZO_WpdEIt4dyANcgdlfF2wYDRPt0wIZXF9VohrSy30CkAZNRAD4OcbVqliTriwEPFTUWANyhiXg5H20MVxalh6_tkiDQRbOHt8pd6X3RCJvKio_wNozBWxwcpQm-vhMD4g6UWsR4gf36blOjY87IRNq4ko"
+    },
+    {
+      "id": 2,
+      "name": "Гликированный гемоглобин (HbA1С, Glycated Hemoglobin)",
+      "description": "Оценку содержания гликированного гемолобина в цельной крови используют для долгосрочного контроля уровня глюкозы в крови, при диагностике сахарного диабета, выявлении риска развития диабета.",
+      "price": "1070.00",
+      "image": "https://jagjeetluck.files.wordpress.com/2018/11/activity_lifecycle1.jpg?w=1024"
+    },
+    {
+      "id": 3,
+      "name": "Экспресс-тест, ПЦР, РНК вируса SARS-CoV-2, мазок (PCR Rapid test, SARS-CoV-2, RNA, nasopharyngeal and oropharyngeal smear)",
+      "description": "Тест проводят с целью определения наличия РНК коронавируса SARS-CoV-2 в мазке со слизистой носа, носоглотки и ротоглотки методом ПЦР с детекцией в режиме реального времени (RT-PCR).",
+      "price": "4085.00",
+      "image": "https://search-img-dre.dbankcdn.com/8ec9772334fed845632d90166fee05bb"
+    },
+    {
+      "id": 4,
+      "name": "Тироксин общий (Т4 общий, тетрайодтиронин общий, Total Thyroxine, TT4)",
+      "description": "Отражает общее содержание гормона тироксина в крови – суммарный уровень свободной и связанной с белками фракциями.",
+      "price": "925.00",
+      "image": "https://litmap.ru/wp-content/uploads/3/3/7/337db919def6e5fd5d567da44f68c1ec.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "ПЦР-тест на РНК коронавируса SARS-CoV-2, включая определение штаммов Омикрон и Дельта, в мазке со слизистой носоглотки и ротоглотки",
+      "description": "SARS-CoV-2 относится к большому семейству РНК-содержащих вирусов – коронавирусов (лат. Coronaviridae), вызывающих респираторные заболевания. В настоящее время известно о циркуляции среди населения четырех видов коронавирусов (HCoV-229E, -OC43, -NL63 и -HKU1), которые круглогодично присутствуют в структуре ОРВИ и, как правило, вызывают поражение верхних дыхательных путей легкой и средней тяжести. К семейству коронавирусов также относятся опасные вирусы SARS-CoV и MERS-CoV, вызывающие тяжелый острый респирато",
+      "price": "2640.00",
+      "image": "https://avatars.mds.yandex.net/i?id=ecffcc2c889cf8631d22b8873d570c96dd67726a-7546007-images-thumbs&n=13"
+    }
+  ]
+}
